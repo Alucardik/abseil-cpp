@@ -1,3 +1,5 @@
+# Ignore JetBrains IDEs config directory
+.idea
 # Ignore all bazel-* symlinks.
 /bazel-*
 # Ignore Bazel verbose explanations
